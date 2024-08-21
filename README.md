@@ -1,5 +1,7 @@
 # ASSHOLE
 
+Zsh plugin
+
 ## Installation
 
 ```cmd
