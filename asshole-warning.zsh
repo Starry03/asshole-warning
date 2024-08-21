@@ -4,4 +4,4 @@ function asshole_warning() {
     fi
 }
 
-precmd_functions+=(asshole_warning)
+add-zsh-hook precmd asshole_warning
