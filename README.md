@@ -5,7 +5,7 @@ Zsh plugin
 ## Installation
 
 ```cmd
-git clone <this repo> <zsh plugin folder/asshole-warning>
+git clone https://github.com/Starry03/asshole-warning.git <zsh plugin folder/asshole-warning>
 ```
 
 ```bash
